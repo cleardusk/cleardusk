@@ -3,6 +3,4 @@
 
 Contact Me:
 
-✉ Email: jianzhu.guo@nlpr.ia.ac.cn  or  guojianzhu1994@foxmail.com
-
-✧ Website: https://guojianzhu.com
+Email: jianzhu.guo@nlpr.ia.ac.cn or guojianzhu1994@foxmail.com
