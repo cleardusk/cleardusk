@@ -10,4 +10,4 @@
 </a>
 
 
-Contact me: jianzhu.guo@nlpr.ia.ac.cn or guojianzhu1994@foxmail.com
+Contact me: **jianzhu.guo@nlpr.ia.ac.cn** or **guojianzhu1994@foxmail.com**
