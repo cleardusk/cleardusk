@@ -6,3 +6,5 @@
 
 ![cleardusk's github stats](https://github-readme-stats.vercel.app/api?username=cleardusk&show_icons=true&count_private=true&hide=prs&theme=onedark)
 [![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/cleardusk/cleardusk@output/github-contribution-grid-snake.svg)](https://github.com/cleardusk)
+<!-- [![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/cleardusk/cleardusk@output/github-contribution-grid-snake-dark.gif)](https://github.com/cleardusk) -->
+<!-- [![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/cleardusk/cleardusk@output/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)](https://github.com/cleardusk) -->
